@@ -1,5 +1,238 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi everybody, thank you for listening. Today I'd like to discuss a topic that is, specifically for me, relevant. I am from Sugar Land, Texas, a suburb of Houston. After all, my hometown has started changing rather quickly. I mean really quickly. In the past ten years, the city of Houston has seen quite the jump in prices... housing, rent, etc. So, it makes sense that people are looking to move away from the city, and find something more reasonable. Some of them go to Sugar Land, TX. On the one hand, that sounds like growth—more people, more buildings, more jobs, more hospitals, more lanes on the freeway. But on the other maybe not... because behind all of this growth is a word that has become somewhat more common in and around cities alike, gentrification."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "exigence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ethos (establishes credibility because I am a local)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "pathos, I express it hits close to home showing this issue is personal and significant to me"
+        }
+      ],
+      "uuid": "ae1058ec-ba89-4794-8e34-0b1faa3a06ac"
+    },
+    {
+      "start_time": 0,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what is gentrification? It's when wealthier people move into mostly affordable neighborhoods—places with culture, history, community, old buildings. long-time residents—especially if they are low-income—are often pushed out. Small businesses are faced with rising rents. And the people who called that place home for years start to feel that the place is becoming unrecognizable to them"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "informative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "definition"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "pathos (appeals to the audience's emotions)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "theme"
+        }
+      ],
+      "uuid": "081da156-7724-428c-8bad-395cdd03ac07"
+    },
+    {
+      "start_time": 1,
+      "end_time": 125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sugar Land is certainly becoming a prime example of this.There are two sides of the story. There are the newer, middle-to-high income residents—who are excited about the new houses, shopping centers, and everything clean and modern about Sugar Land. And, I completely get it. It's nice to have all of those conveniences at your fingertips. However, for the long-term residents—who have built their lives here—this \"growth\" and \"progress\" feels like erasure. The local stores they once went to growing up are gone. Prices are going up. And, with every new development, the threat of being pushed out increases."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "ethos (acknowledges the opposing viewpoint to show fairness and balance, which builds my credibility"
+        }
+      ],
+      "uuid": "905dfb01-fe3f-4675-ad8e-93e299f6a8c7"
+    },
+    {
+      "start_time": 125,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is personal. Because when your hometown doesn't feel like home anymore, what can you do? But here is the truth - gentrification doesn't have to mean displacement. Other cities have come up with better ways to deal with this. There are ways. So, let's discuss a few of these that could work in Sugar Land. First, inclusionary zoning. This is when developers are required to provide a percentage of new housing as affordable. So yes, build that new apartment complex *but make part of it affordable to people already living in this area.* The second solution is community land trusts. These, nonprofit organizations buy land and then keep the land forever for affordable housing. This way, the land truly stays in the community and housing prices don't go way up. \n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "logos (logical solutions with definitons and reasonings)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "stakeholders (communities)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "displacement (community)"
+        }
+      ],
+      "uuid": "7c0b59d9-d539-4a96-8371-bc63ccf9398d"
+    },
+    {
+      "start_time": 200,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Third, passive renter control and tenant protections. It is important for the policies to limit the rent increase and also protect tenants from being kicked out unjustly. It is about creating stability and power for renters in a market that is frequently hostile, if not completely one-sided, against them.These are not just concepts: they have been shown to work. One example is Columbia Heights in Washington D.C. A historically African American area and adjacent to Howard University. Columbia Heights experienced extreme disinvestment and damage from the MLK riots, which led to City intervention with renewed investment into the area, with several caveats. In contrast to the former issues with rent disinvestment and tenant displacement, the new investment will incorporate incorporate 1) An additional subway stop, 2) units of affordable housing, and 3) funding for nonprofits to develop affordable housing. To this day, Columbia Heights has kept 20% of housing affordable and former tenants now own their own buildings with tenant protections keeping tenants stable amidst the intensifying growth.\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "logos (logic and evidence)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "informative"
+        }
+      ],
+      "uuid": "bb9d8a26-a7fe-4acd-b97c-1b90b3883b11"
+    },
+    {
+      "start_time": 250,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Is it flawless? No. We still have cases of displacement. But it demonstrates what is possible when a city tries to develop without losing sight of who is already present.Sure, there will be some that don't agree. Some landlords will state rent control will affect their income or the housing market. Others will claim zoning restrictions are limiting their development opportunities. Yes, those are legitimate concerns. But what is most important—profits or people?Because when push comes to shove, we are talking about people being pushed away from their communities. Their schools. Their churches. Their memories. Their stories. That isn't \"progress\"; that is loss.So, imagine watching the neighbourhood you live in disappear in front of your eyes. Not overnight, but little by little—year after year—until it becomes unrecognizable"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "interview"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "argumentative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "stakeholders (politicians, stakeholders"
+        }
+      ],
+      "uuid": "512b6195-fb20-4ad7-88c6-3c3fabc8b1bb"
+    },
+    {
+      "start_time": 290,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because at the end of the day, we’re talking about people being pushed out of the communities they love. Their schools. Their churches. Their memories. Their stories. That’s not just “progress”—that’s loss."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "communities"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "visual"
+        }
+      ],
+      "uuid": "d0603f3e-5ee5-4010-a2ea-a653341a9baf"
+    },
+    {
+      "start_time": 315,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not just a Houston or Sugar Land problem. This is happening everywhere. So I challenge you to take a look at your community. Is this happening where you live? If yes, please consider joining a local organization. Speak up at town halls. Chat to your neighbors. Advocate for the policies that protect the people who made your city what it was. Because the future of our hometowns should belong to everyone, not just the people who can afford to move there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "purpose, message"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "theme"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "persuasive"
+        }
+      ],
+      "uuid": "186e9ab0-ca06-4aa0-bf72-0cc12203e807"
+    }
+  ],
   "set": "Default",
   "event_id": "0dbbc945-35ae-4dc1-b0d7-bced0e584fc0",
   "source_id": "d954f672-a5b4-477d-9e33-399d5c2ac518"
